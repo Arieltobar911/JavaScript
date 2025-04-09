@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log("system is working...")
 
 function Condition06() {
@@ -70,6 +69,4 @@ function Condition10() {
     } else {
         alert("Unexpected Fatal Error (UFE).")
     }
-=======
->>>>>>> 149bdd3a7f14965f2637ce48f04f997a2191f024
 }
